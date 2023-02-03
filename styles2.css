@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(167, 152, 252);
+}
+
+header {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(40, 34, 97);
+    border: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+h1 {
+    font-size: 50px;
+    padding-left: 40px;
+    color: rgb(15, 15, 53);
+    padding-bottom: 10px;
+    border: 5px solid rgb(65, 54, 184);
+    width: 380px;
+    height: 50px;
+     background-color: antiquewhite;
+}
+.p1 {
+    font-size: 25px;
+    padding-bottom: 10px;
+    border: 5px solid rgb(85, 178, 218);
+    background-color: antiquewhite;
+    width: 800px;
+    padding: 40px;
+   
+    
+}
+.p2 {
+    font-size: 25px;
+    border: 5px solid rgb(0, 72, 255);
+    background-color: antiquewhite;
+    width: 1200px;
+    padding: 40px;
+}
+
+img {
+    border: 5px solid rgb(40, 226, 255);
+}

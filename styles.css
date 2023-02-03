@@ -1,0 +1,90 @@
+header {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(42, 42, 134);
+    border: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.p3{
+    text-align: center;
+position: relative;
+top: 135px ;
+padding-left: 130px;
+padding-right: 120px;
+font-size: larger;
+}
+
+.small {
+    font-size: 25px;
+}
+img {
+    margin: 200px;
+    margin-top: 20px;
+    padding: 40px;
+}
+hr {
+    top: 10px;
+    border: none;
+    height: 8px;
+    background: rgb(42, 42, 134);
+    position: relative;
+}
+.box {
+    width: 320px;
+    border: 5px solid gray;
+    margin: 0;
+    padding: 20px;
+    font-size: 40px;
+    padding-right: 20px;
+    font-weight: bold;
+    color: rgb(42, 42, 134);
+    position:absolute; left: 100px; bottom: 130px
+}
+a {
+    list-style:none ;
+    font-size: 30px;
+    color:black;
+    padding: 10px;
+    
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+.p1 {
+    position: static;
+    left: 20px;
+}
+div {
+    padding-right: 30px;
+}
+.box2 {
+        width: 270px;
+        height: 250px;
+        border: 5px solid rgb(17, 6, 79);
+        margin: 0;
+        padding: 20px;
+        font-size: 40px;
+        padding-right: 20px;
+        font-weight: bold;
+        color: rgb(42, 42, 134);
+        position:absolute; right: 160px; bottom: -75px   
+}
+.header1 {
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    background-color: rgb(42, 42, 134);
+    border: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+body {
+    border-color: rgb(42, 42, 134);
+}
+.size {
+    font-size: 20px;
+}
